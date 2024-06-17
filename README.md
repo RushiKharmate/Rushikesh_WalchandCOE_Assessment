@@ -31,8 +31,7 @@ Artry Crafts is dedicated to celebrating the art of handmade craftsmanship. Our 
 - *Product Availability*: Platforms listed in the moving text section.
 
 ## File Structure
-
-
+```
 artry-crafts/
 │
 ├── Photos/                     # Image assets
@@ -52,7 +51,7 @@ artry-crafts/
 ├── contact.html                # Contact Us page
 └── README.md                   # README file
 
-
+```
 ## Contact
 
 For inquiries or questions, contact us at:
